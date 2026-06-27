@@ -9,8 +9,6 @@ matplotlib
 seaborn
 python-dotenv
 opencv-python-headless
-deepface
-tf-keras
 langchain
 langchain-community
 langchain-google-genai
